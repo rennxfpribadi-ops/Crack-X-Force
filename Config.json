@@ -8,7 +8,7 @@
     "storageBucket": "notifikasi-7fa41.firebasestorage.app"
   },
   "update": {
-    "enabled": false,
+    "enabled": true,
     "version": "2.0.0",
     "apk_url": "https://www.mediafire.com/file/dly8413vx1ucz7p/app-release.apk/file",
     "force": false,
